@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\研一上学期\ai\lab1\MC\源.cpp(160,7): warning C4101: “c”: 未引用的局部变量
+F:\研一上学期\ai\lab1\MC\源.cpp(170): warning C4715: “solve”: 不是所有的控件路径都返回值
+  MC.vcxproj -> F:\研一上学期\ai\lab1\MC\Debug\MC.exe

@@ -1,0 +1,4 @@
+F:\研一上学期\ArtificalIntelligence\MC\Debug\MC.exe
+F:\研一上学期\ArtificalIntelligence\MC\Debug\MC.pdb
+F:\研一上学期\ai\lab1\MC\Debug\MC.exe
+F:\研一上学期\ai\lab1\MC\Debug\MC.pdb
